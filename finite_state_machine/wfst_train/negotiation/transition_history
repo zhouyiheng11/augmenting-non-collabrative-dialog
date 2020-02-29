@@ -1,0 +1,1383 @@
+-------------------------------
+state: vague-price16
+-------------------------------
+state: init-price14
+-------------------------------
+state: init-price17
+-------------------------------
+state: init-price16
+-------------------------------
+state: vague-price12
+-------------------------------
+state: vague-price13
+-------------------------------
+state: counter-price8
+counter-price8 --          agree-->           offer     1
+counter-price8 --  counter-price-->           offer     1
+-------------------------------
+state: counter-price9
+-------------------------------
+state: init-price13
+-------------------------------
+state: counter-price2
+counter-price2 --       disagree-->          agree3     2
+counter-price2 --       disagree-->    vague-price3     1
+counter-price2 --  counter-price-->    vague-price3     5
+counter-price2 --         insist-->       disagree3     1
+counter-price2 --       disagree-->           offer    15
+counter-price2 --  counter-price-->        unknown3   300
+counter-price2 --       disagree-->  counter-price3    24
+counter-price2 --         insist-->        inquiry3     2
+counter-price2 --    vague-price-->         insist3     2
+counter-price2 --        inquiry-->          agree3     3
+counter-price2 --       disagree-->       disagree3     5
+counter-price2 --         insist-->           offer     8
+counter-price2 --          agree-->            quit     1
+counter-price2 --        inquiry-->       disagree3     8
+counter-price2 --          offer-->          accept    60
+counter-price2 --       disagree-->            quit     3
+counter-price2 --  counter-price-->           offer    97
+counter-price2 --         insist-->          agree3     7
+counter-price2 --       disagree-->         insist3     4
+counter-price2 --  counter-price-->          agree3   171
+counter-price2 --    vague-price-->  counter-price3    12
+counter-price2 --         insist-->  counter-price3    11
+counter-price2 --         insist-->        unknown3     6
+counter-price2 --    vague-price-->    vague-price3     3
+counter-price2 --        unknown-->       disagree3     6
+counter-price2 --    vague-price-->        unknown3     2
+counter-price2 --  counter-price-->        inquiry3    76
+counter-price2 --  counter-price-->            quit     9
+counter-price2 --          agree-->        inquiry3    11
+counter-price2 --        unknown-->          agree3    16
+counter-price2 --        inquiry-->         insist3     5
+counter-price2 --        unknown-->    vague-price3     2
+counter-price2 --        unknown-->         insist3    15
+counter-price2 --        unknown-->        inquiry3    21
+counter-price2 --        inquiry-->         inform3    49
+counter-price2 --          offer-->          reject    13
+counter-price2 --       disagree-->        unknown3    11
+counter-price2 --        unknown-->           offer   236
+counter-price2 --        unknown-->        unknown3    78
+counter-price2 --        inquiry-->           offer    12
+counter-price2 --    vague-price-->       disagree3     2
+counter-price2 --        unknown-->  counter-price3    59
+counter-price2 --          agree-->        unknown3    90
+counter-price2 --          agree-->           offer   142
+counter-price2 --  counter-price-->         insist3    29
+counter-price2 --        inquiry-->        inquiry3     8
+counter-price2 --         insist-->            quit     1
+counter-price2 --        inquiry-->        unknown3     3
+counter-price2 --  counter-price-->       disagree3    18
+counter-price2 --          agree-->          agree3    19
+counter-price2 --          agree-->       disagree3     5
+counter-price2 --         insist-->         insist3     1
+counter-price2 --          agree-->  counter-price3    21
+counter-price2 --       disagree-->        inquiry3     9
+counter-price2 --        inquiry-->  counter-price3    16
+counter-price2 --  counter-price-->  counter-price3   473
+counter-price2 --    vague-price-->        inquiry3     2
+-------------------------------
+state: counter-price3
+counter-price3 --         insist-->       disagree4     3
+counter-price3 --  counter-price-->    vague-price4     3
+counter-price3 --       disagree-->       disagree4     1
+counter-price3 --          agree-->    vague-price4     1
+counter-price3 --       disagree-->          agree4     1
+counter-price3 --       disagree-->           offer     6
+counter-price3 --         insist-->        inquiry4     3
+counter-price3 --       disagree-->  counter-price4     8
+counter-price3 --  counter-price-->        unknown4    99
+counter-price3 --        inquiry-->           offer     1
+counter-price3 --          agree-->  counter-price4     4
+counter-price3 --         insist-->           offer     8
+counter-price3 --    vague-price-->         insist4     1
+counter-price3 --         insist-->          agree4     4
+counter-price3 --          offer-->          accept    55
+counter-price3 --       disagree-->            quit     4
+counter-price3 --  counter-price-->           offer    53
+counter-price3 --        inquiry-->       disagree4     3
+counter-price3 --    vague-price-->       disagree4     1
+counter-price3 --    vague-price-->  counter-price4     5
+counter-price3 --  counter-price-->          agree4    63
+counter-price3 --         insist-->        unknown4    16
+counter-price3 --         insist-->  counter-price4    11
+counter-price3 --        unknown-->       disagree4     3
+counter-price3 --        unknown-->          agree4    12
+counter-price3 --          agree-->         insist4     2
+counter-price3 --          agree-->        inquiry4     4
+counter-price3 --        inquiry-->        inquiry4     1
+counter-price3 --         insist-->         insist4     5
+counter-price3 --  counter-price-->        inquiry4    21
+counter-price3 --        unknown-->         insist4     4
+counter-price3 --        inquiry-->         insist4     4
+counter-price3 --        unknown-->        inquiry4     3
+counter-price3 --        unknown-->        unknown4    46
+counter-price3 --       disagree-->         insist4     2
+counter-price3 --       disagree-->        unknown4     4
+counter-price3 --        unknown-->           offer   154
+counter-price3 --  counter-price-->            quit     4
+counter-price3 --          agree-->        unknown4    35
+counter-price3 --          offer-->          reject     9
+counter-price3 --        unknown-->  counter-price4    20
+counter-price3 --        inquiry-->         inform4    21
+counter-price3 --          agree-->           offer    78
+counter-price3 --  counter-price-->       disagree4    11
+counter-price3 --  counter-price-->         insist4    20
+counter-price3 --          agree-->          agree4     9
+counter-price3 --  counter-price-->  counter-price4   126
+counter-price3 --       disagree-->        inquiry4     1
+counter-price3 --        unknown-->            quit     1
+counter-price3 --    vague-price-->            quit     1
+counter-price3 --        inquiry-->  counter-price4     3
+-------------------------------
+state: counter-price1
+-------------------------------
+state: counter-price6
+counter-price6 --          agree-->           offer     2
+counter-price6 --        unknown-->         insist7     1
+counter-price6 --  counter-price-->         insist7     2
+counter-price6 --         insist-->            quit     1
+counter-price6 --  counter-price-->    vague-price7     1
+counter-price6 --          offer-->          reject     1
+counter-price6 --        unknown-->        unknown7     1
+counter-price6 --        unknown-->           offer     1
+counter-price6 --        inquiry-->           offer     1
+counter-price6 --          offer-->          accept     1
+counter-price6 --  counter-price-->  counter-price7     5
+counter-price6 --       disagree-->            quit     1
+-------------------------------
+state: counter-price7
+counter-price7 --  counter-price-->          agree8     1
+counter-price7 --  counter-price-->  counter-price8     2
+counter-price7 --        inquiry-->           offer     1
+counter-price7 --          agree-->        unknown8     1
+counter-price7 --          offer-->          accept     1
+counter-price7 --  counter-price-->           offer     1
+-------------------------------
+state: counter-price4
+counter-price4 --  counter-price-->    vague-price5     1
+counter-price4 --       disagree-->          agree5     3
+counter-price4 --       disagree-->           offer     2
+counter-price4 --       disagree-->  counter-price5     4
+counter-price4 --    vague-price-->           offer     1
+counter-price4 --  counter-price-->        unknown5    25
+counter-price4 --         insist-->           offer     2
+counter-price4 --          agree-->        unknown5    11
+counter-price4 --         insist-->          agree5     1
+counter-price4 --          offer-->          accept    19
+counter-price4 --       disagree-->            quit     4
+counter-price4 --  counter-price-->           offer    18
+counter-price4 --    vague-price-->  counter-price5     1
+counter-price4 --  counter-price-->          agree5     8
+counter-price4 --         insist-->        unknown5     1
+counter-price4 --         insist-->  counter-price5     4
+counter-price4 --        unknown-->  counter-price5     2
+counter-price4 --        unknown-->       disagree5     1
+counter-price4 --    vague-price-->        unknown5     2
+counter-price4 --  counter-price-->  counter-price5    29
+counter-price4 --  counter-price-->       disagree5     3
+counter-price4 --  counter-price-->            quit     1
+counter-price4 --  counter-price-->        inquiry5     8
+counter-price4 --        unknown-->         insist5     3
+counter-price4 --        unknown-->    vague-price5     1
+counter-price4 --          offer-->          reject     7
+counter-price4 --        unknown-->        unknown5     6
+counter-price4 --        unknown-->           offer    25
+counter-price4 --        unknown-->          agree5     6
+counter-price4 --        inquiry-->         inform5     3
+counter-price4 --          agree-->  counter-price5     4
+counter-price4 --          agree-->           offer    20
+counter-price4 --  counter-price-->         insist5     6
+counter-price4 --         insist-->            quit     1
+counter-price4 --          agree-->          agree5     3
+counter-price4 --        inquiry-->  counter-price5     1
+-------------------------------
+state: counter-price5
+counter-price5 --         insist-->       disagree6     1
+counter-price5 --    vague-price-->       disagree6     1
+counter-price5 --       disagree-->           offer     3
+counter-price5 --       disagree-->  counter-price6     1
+counter-price5 --  counter-price-->        unknown6     2
+counter-price5 --          offer-->          accept     7
+counter-price5 --         insist-->          agree6     1
+counter-price5 --       disagree-->            quit     1
+counter-price5 --  counter-price-->           offer     1
+counter-price5 --    vague-price-->  counter-price6     1
+counter-price5 --  counter-price-->          agree6     7
+counter-price5 --         insist-->  counter-price6     1
+counter-price5 --  counter-price-->  counter-price6     6
+counter-price5 --  counter-price-->            quit     1
+counter-price5 --          offer-->          reject     1
+counter-price5 --        unknown-->        unknown6     2
+counter-price5 --        unknown-->           offer     9
+counter-price5 --          agree-->        unknown6     4
+counter-price5 --          agree-->  counter-price6     1
+counter-price5 --          agree-->           offer     8
+counter-price5 --         insist-->            quit     1
+counter-price5 --  counter-price-->         insist6     2
+counter-price5 --          agree-->          agree6     2
+counter-price5 --        unknown-->            quit     1
+counter-price5 --        inquiry-->  counter-price6     1
+-------------------------------
+state: unknown10
+-------------------------------
+state: unknown11
+-------------------------------
+state: unknown12
+-------------------------------
+state: unknown13
+-------------------------------
+state: unknown14
+-------------------------------
+state: unknown15
+-------------------------------
+state: unknown16
+-------------------------------
+state: inform17
+-------------------------------
+state: agree8
+agree8 --          offer-->          accept     1
+-------------------------------
+state: agree9
+-------------------------------
+state: agree6
+agree6 --       disagree-->           offer     1
+agree6 --          offer-->          accept     2
+agree6 --        unknown-->        unknown6     1
+agree6 --        unknown-->           offer     5
+-------------------------------
+state: agree7
+-------------------------------
+state: agree4
+agree4 --          agree-->           offer     7
+agree4 --  counter-price-->    vague-price5     1
+agree4 --        inquiry-->         inform4     1
+agree4 --       disagree-->           offer     1
+agree4 --          agree-->  counter-price4     1
+agree4 --       disagree-->        inquiry4     1
+agree4 --         insist-->  counter-price5     1
+agree4 --  counter-price-->        unknown5     1
+agree4 --        unknown-->        unknown4     5
+agree4 --          agree-->        unknown4     1
+agree4 --        unknown-->       disagree4     1
+agree4 --        unknown-->           offer    23
+agree4 --        unknown-->          agree4     2
+agree4 --  counter-price-->  counter-price5     1
+agree4 --          offer-->          accept    65
+agree4 --  counter-price-->            quit     1
+agree4 --        unknown-->  counter-price4     1
+agree4 --        inquiry-->        inquiry4     1
+-------------------------------
+state: agree5
+agree5 --          agree-->           offer     2
+agree5 --  counter-price-->  counter-price6     1
+agree5 --        unknown-->        unknown5     1
+agree5 --        unknown-->           offer     7
+agree5 --        unknown-->          agree5     1
+agree5 --          offer-->          accept    14
+agree5 --          agree-->  counter-price5     1
+-------------------------------
+state: agree2
+agree2 --       disagree-->          agree2     1
+agree2 --       disagree-->           offer     1
+agree2 --  counter-price-->        unknown3     8
+agree2 --       disagree-->  counter-price2     2
+agree2 --         insist-->           offer     1
+agree2 --        inquiry-->       disagree2     1
+agree2 --          offer-->          accept   146
+agree2 --  counter-price-->           offer     3
+agree2 --  counter-price-->          agree3     3
+agree2 --        unknown-->       disagree2     1
+agree2 --        inquiry-->        inquiry2     1
+agree2 --  counter-price-->       disagree3     1
+agree2 --          agree-->        inquiry2     1
+agree2 --        unknown-->          agree2     5
+agree2 --  counter-price-->  counter-price3     4
+agree2 --        unknown-->        inquiry2     2
+agree2 --       disagree-->        unknown2     3
+agree2 --        unknown-->        unknown2    16
+agree2 --        inquiry-->           offer     2
+agree2 --        unknown-->  counter-price2     4
+agree2 --          agree-->        unknown2     5
+agree2 --          agree-->           offer    21
+agree2 --        inquiry-->         inform2    10
+agree2 --          agree-->          agree2     2
+agree2 --       disagree-->        inquiry2     1
+agree2 --        inquiry-->  counter-price2     3
+agree2 --        unknown-->           offer    87
+-------------------------------
+state: agree3
+agree3 --       disagree-->          agree3     1
+agree3 --       disagree-->           offer     4
+agree3 --       disagree-->  counter-price3     1
+agree3 --         insist-->           offer     2
+agree3 --          offer-->          accept   137
+agree3 --        unknown-->  counter-price3     4
+agree3 --  counter-price-->          agree4     1
+agree3 --  counter-price-->  counter-price4     2
+agree3 --        unknown-->          agree3     6
+agree3 --        unknown-->        inquiry3     1
+agree3 --  counter-price-->        unknown4     2
+agree3 --          offer-->          reject     1
+agree3 --       disagree-->        unknown3     1
+agree3 --        unknown-->           offer    59
+agree3 --        unknown-->        unknown3     8
+agree3 --        inquiry-->           offer     1
+agree3 --          agree-->  counter-price3     1
+agree3 --          agree-->        unknown3     4
+agree3 --          agree-->           offer    15
+agree3 --        inquiry-->         inform3     5
+agree3 --          agree-->          agree3     2
+agree3 --        inquiry-->  counter-price3     1
+agree3 --        unknown-->            quit     1
+-------------------------------
+state: agree1
+agree1 --        unknown-->        unknown1     1
+agree1 --        unknown-->      init-price     1
+-------------------------------
+state: insist12
+-------------------------------
+state: counter-price13
+-------------------------------
+state: disagree5
+disagree5 --         insist-->        unknown6     1
+disagree5 --        inquiry-->         inform5     1
+disagree5 --       disagree-->  counter-price5     1
+disagree5 --    vague-price-->           offer     1
+disagree5 --        unknown-->       disagree5     1
+disagree5 --  counter-price-->  counter-price6     1
+disagree5 --         insist-->          agree6     1
+-------------------------------
+state: disagree4
+disagree4 --        unknown-->        unknown4     1
+disagree4 --        unknown-->            quit     1
+disagree4 --  counter-price-->         insist5     1
+disagree4 --        inquiry-->         inform4     1
+disagree4 --       disagree-->  counter-price4     2
+disagree4 --          offer-->          reject     3
+disagree4 --       disagree-->        inquiry4     1
+disagree4 --        unknown-->          agree4     1
+disagree4 --        unknown-->           offer     2
+disagree4 --          agree-->        unknown4     3
+disagree4 --  counter-price-->  counter-price5     2
+disagree4 --          offer-->          accept     2
+disagree4 --          agree-->        inquiry4     1
+disagree4 --        unknown-->  counter-price4     1
+disagree4 --  counter-price-->       disagree5     1
+-------------------------------
+state: disagree7
+-------------------------------
+state: disagree6
+disagree6 --          agree-->           offer     1
+disagree6 --        unknown-->            quit     1
+disagree6 --  counter-price-->        inquiry7     1
+-------------------------------
+state: disagree1
+disagree1 --     init-price-->        inquiry2     3
+disagree1 --          offer-->          accept     2
+disagree1 --        inquiry-->       disagree1     4
+disagree1 --     init-price-->           offer     3
+disagree1 --       disagree-->      init-price    17
+disagree1 --     init-price-->       disagree2     1
+disagree1 --        inquiry-->      init-price     8
+disagree1 --        unknown-->       disagree1     5
+disagree1 --        inquiry-->        inquiry1     5
+disagree1 --     init-price-->     init-price2     1
+disagree1 --        unknown-->        inquiry1    10
+disagree1 --        unknown-->      init-price    20
+disagree1 --        unknown-->           offer     1
+disagree1 --       disagree-->        unknown1     1
+disagree1 --        inquiry-->           offer     1
+disagree1 --     init-price-->          agree2     2
+disagree1 --     init-price-->        unknown2     7
+disagree1 --    vague-price-->     init-price2     2
+disagree1 --        inquiry-->         inform1     7
+disagree1 --       disagree-->        inquiry1    10
+disagree1 --        unknown-->            quit     1
+disagree1 --     init-price-->  counter-price2    23
+disagree1 --        unknown-->        unknown1     8
+-------------------------------
+state: disagree3
+disagree3 --       disagree-->           offer     2
+disagree3 --         insist-->        inquiry4     1
+disagree3 --  counter-price-->        unknown4     3
+disagree3 --         insist-->           offer     1
+disagree3 --          offer-->          accept    14
+disagree3 --  counter-price-->           offer     1
+disagree3 --    vague-price-->  counter-price4     1
+disagree3 --  counter-price-->          agree4     3
+disagree3 --         insist-->        unknown4     1
+disagree3 --         insist-->  counter-price4     1
+disagree3 --  counter-price-->  counter-price4     8
+disagree3 --  counter-price-->       disagree4     2
+disagree3 --        unknown-->          agree3     1
+disagree3 --        unknown-->         insist3     1
+disagree3 --        unknown-->        inquiry3     2
+disagree3 --       disagree-->        unknown3     1
+disagree3 --        unknown-->           offer     4
+disagree3 --        unknown-->        unknown3     3
+disagree3 --        unknown-->  counter-price3     2
+disagree3 --          agree-->           offer     4
+disagree3 --          agree-->          agree3     1
+disagree3 --       disagree-->        inquiry3     1
+disagree3 --        inquiry-->  counter-price3     4
+disagree3 --  counter-price-->        inquiry4     2
+-------------------------------
+state: disagree2
+disagree2 --         insist-->           offer     1
+disagree2 --  counter-price-->        unknown3     7
+disagree2 --       disagree-->  counter-price2     3
+disagree2 --    vague-price-->        inquiry3     1
+disagree2 --          offer-->          accept    10
+disagree2 --  counter-price-->           offer     3
+disagree2 --  counter-price-->          agree3     1
+disagree2 --         insist-->  counter-price3     1
+disagree2 --         insist-->        unknown3     2
+disagree2 --        unknown-->     init-price2     1
+disagree2 --  counter-price-->        inquiry3     2
+disagree2 --        inquiry-->        inquiry2     2
+disagree2 --  counter-price-->       disagree3     1
+disagree2 --        unknown-->          agree2     1
+disagree2 --  counter-price-->  counter-price3    18
+disagree2 --        unknown-->    vague-price2     1
+disagree2 --       disagree-->        unknown2     1
+disagree2 --        unknown-->        unknown2     7
+disagree2 --        inquiry-->           offer     1
+disagree2 --        unknown-->  counter-price2     9
+disagree2 --          agree-->           offer     2
+disagree2 --        inquiry-->         inform2     3
+disagree2 --         insist-->            quit     1
+disagree2 --        inquiry-->  counter-price2     4
+disagree2 --        unknown-->            quit     1
+disagree2 --        unknown-->           offer     5
+-------------------------------
+state: init-price
+init-price --          agree-->    vague-price2     1
+init-price --     init-price-->        inquiry2     5
+init-price --    vague-price-->       disagree2     2
+init-price --  counter-price-->    vague-price2    10
+init-price --       disagree-->           offer     4
+init-price --  counter-price-->        unknown2   335
+init-price --    vague-price-->           offer     2
+init-price --       disagree-->  counter-price2    49
+init-price --       disagree-->       disagree2     1
+init-price --    vague-price-->         insist2     4
+init-price --       disagree-->    vague-price2     2
+init-price --        inquiry-->     init-price2    20
+init-price --    vague-price-->        inquiry2     9
+init-price --        inquiry-->       disagree2     8
+init-price --          offer-->          accept    27
+init-price --       disagree-->            quit     3
+init-price --  counter-price-->           offer    56
+init-price --        unknown-->          agree2     9
+init-price --     init-price-->           offer     1
+init-price --  counter-price-->          agree2   251
+init-price --    vague-price-->  counter-price2    31
+init-price --     init-price-->       disagree2     2
+init-price --    vague-price-->    vague-price2     1
+init-price --       disagree-->     init-price2    13
+init-price --    vague-price-->        unknown2     8
+init-price --        unknown-->     init-price2    39
+init-price --  counter-price-->        inquiry2   107
+init-price --        inquiry-->        inquiry2     9
+init-price --  counter-price-->            quit    10
+init-price --  counter-price-->       disagree2    28
+init-price --       disagree-->         insist2     8
+init-price --        unknown-->       disagree2    13
+init-price --         insist-->  counter-price2     1
+init-price --        inquiry-->         insist2     6
+init-price --        unknown-->    vague-price2     1
+init-price --        unknown-->         insist2    23
+init-price --        unknown-->        inquiry2    52
+init-price --        unknown-->  counter-price2    85
+init-price --          offer-->          reject     7
+init-price --  counter-price-->         insist2    34
+init-price --        unknown-->           offer   119
+init-price --        unknown-->        unknown2   105
+init-price --        inquiry-->           offer     7
+init-price --     init-price-->          agree2     7
+init-price --          agree-->  counter-price2    43
+init-price --     init-price-->        unknown2     6
+init-price --          agree-->        unknown2    62
+init-price --    vague-price-->     init-price2     5
+init-price --          agree-->           offer    57
+init-price --        inquiry-->         inform2    73
+init-price --          agree-->            quit     1
+init-price --        inquiry-->          agree2     2
+init-price --          agree-->       disagree2     4
+init-price --          agree-->          agree2    19
+init-price --          agree-->        inquiry2    15
+init-price --  counter-price-->  counter-price2   736
+init-price --       disagree-->        inquiry2    13
+init-price --        inquiry-->        unknown2     3
+init-price --        inquiry-->  counter-price2    16
+init-price --        unknown-->            quit     4
+init-price --     init-price-->  counter-price2    32
+init-price --       disagree-->        unknown2    11
+-------------------------------
+state: disagree8
+disagree8 --        unknown-->            quit     1
+-------------------------------
+state: disagree15
+-------------------------------
+state: disagree14
+-------------------------------
+state: disagree17
+-------------------------------
+state: disagree16
+-------------------------------
+state: disagree11
+-------------------------------
+state: disagree10
+-------------------------------
+state: disagree13
+-------------------------------
+state: disagree12
+-------------------------------
+state: inquiry17
+-------------------------------
+state: counter-price15
+-------------------------------
+state: insist17
+-------------------------------
+state: inquiry16
+-------------------------------
+state: counter-price16
+-------------------------------
+state: init-price9
+-------------------------------
+state: init-price8
+-------------------------------
+state: agree15
+-------------------------------
+state: insist16
+-------------------------------
+state: init-price3
+init-price3 --  counter-price-->  counter-price4     2
+init-price3 --          agree-->           offer     1
+-------------------------------
+state: init-price2
+init-price2 --          agree-->    vague-price3     1
+init-price2 --  counter-price-->    vague-price3     1
+init-price2 --       disagree-->           offer     1
+init-price2 --  counter-price-->        unknown3    30
+init-price2 --    vague-price-->        inquiry3     1
+init-price2 --        inquiry-->       disagree3     1
+init-price2 --       disagree-->            quit     1
+init-price2 --  counter-price-->           offer     4
+init-price2 --  counter-price-->          agree3    15
+init-price2 --        unknown-->     init-price3     3
+init-price2 --  counter-price-->        inquiry3     9
+init-price2 --        unknown-->       disagree3     1
+init-price2 --        inquiry-->        inquiry3     1
+init-price2 --  counter-price-->       disagree3     2
+init-price2 --        unknown-->          agree3     1
+init-price2 --        unknown-->        inquiry3     2
+init-price2 --  counter-price-->         insist3     5
+init-price2 --          offer-->          reject     1
+init-price2 --        unknown-->           offer     5
+init-price2 --        unknown-->        unknown3     5
+init-price2 --        unknown-->  counter-price3     1
+init-price2 --          agree-->        unknown3     6
+init-price2 --          agree-->           offer     2
+init-price2 --        inquiry-->         inform3     5
+init-price2 --          agree-->        inquiry3     2
+init-price2 --          agree-->  counter-price3     1
+init-price2 --        inquiry-->  counter-price3     1
+init-price2 --  counter-price-->  counter-price3    60
+-------------------------------
+state: init-price5
+-------------------------------
+state: init-price4
+-------------------------------
+state: init-price7
+-------------------------------
+state: init-price6
+-------------------------------
+state: disagree9
+-------------------------------
+state: insist8
+-------------------------------
+state: init-price15
+-------------------------------
+state: insist13
+-------------------------------
+state: vague-price14
+-------------------------------
+state: vague-price15
+-------------------------------
+state: init-price11
+-------------------------------
+state: init-price10
+-------------------------------
+state: vague-price10
+-------------------------------
+state: vague-price11
+-------------------------------
+state: inquiry13
+-------------------------------
+state: init-price12
+-------------------------------
+state: inquiry12
+-------------------------------
+state: insist14
+-------------------------------
+state: inquiry15
+-------------------------------
+state: inquiry14
+-------------------------------
+state: quit
+-------------------------------
+state: insist15
+-------------------------------
+state: insist9
+-------------------------------
+state: start
+start --     init-price-->           offer     5
+start --     init-price-->            quit     1
+start --     init-price-->        inquiry2    33
+start --          intro-->        unknown1  1245
+start --          intro-->          agree1     1
+start --     init-price-->        unknown2    52
+start --          intro-->       disagree1    18
+start --          intro-->      init-price   285
+start --          intro-->            quit     4
+start --     init-price-->          agree2     4
+start --          intro-->    vague-price1    29
+start --          intro-->           offer    48
+start --          intro-->        inquiry1   406
+start --     init-price-->  counter-price2    59
+start --     init-price-->    vague-price2     3
+-------------------------------
+state: insist7
+insist7 --          agree-->           offer     1
+insist7 --          agree-->        unknown8     1
+insist7 --        unknown-->           offer     1
+-------------------------------
+state: insist6
+insist6 --  counter-price-->  counter-price7     1
+insist6 --        unknown-->           offer     1
+-------------------------------
+state: insist5
+insist5 --    vague-price-->  counter-price6     1
+insist5 --  counter-price-->        unknown6     1
+insist5 --         insist-->  counter-price6     2
+insist5 --        unknown-->           offer     1
+insist5 --         insist-->           offer     1
+insist5 --          agree-->        unknown6     1
+insist5 --          offer-->          accept     3
+insist5 --          offer-->          reject     1
+insist5 --        inquiry-->       disagree6     1
+insist5 --  counter-price-->           offer     2
+-------------------------------
+state: insist4
+insist4 --        unknown-->         insist5     1
+insist4 --          agree-->           offer     1
+insist4 --        unknown-->            quit     1
+insist4 --  counter-price-->         insist5     1
+insist4 --  counter-price-->          agree5     1
+insist4 --       disagree-->           offer     1
+insist4 --          agree-->          agree5     1
+insist4 --       disagree-->  counter-price5     2
+insist4 --         insist-->         insist5     1
+insist4 --  counter-price-->        unknown5     1
+insist4 --          agree-->  counter-price5     1
+insist4 --        unknown-->        unknown5     2
+insist4 --       disagree-->         insist5     1
+insist4 --        unknown-->           offer     7
+insist4 --         insist-->        unknown5     1
+insist4 --        unknown-->          agree5     2
+insist4 --  counter-price-->  counter-price5     3
+insist4 --          offer-->          accept     5
+insist4 --          offer-->          reject     6
+insist4 --        unknown-->  counter-price5     2
+insist4 --          agree-->        unknown5     2
+-------------------------------
+state: insist3
+insist3 --         insist-->        inquiry4     1
+insist3 --        inquiry-->          agree4     1
+insist3 --  counter-price-->        unknown4     6
+insist3 --    vague-price-->         insist4     1
+insist3 --          offer-->          accept    10
+insist3 --  counter-price-->           offer     2
+insist3 --  counter-price-->          agree4     3
+insist3 --         insist-->  counter-price4     1
+insist3 --  counter-price-->  counter-price4     6
+insist3 --  counter-price-->       disagree4     1
+insist3 --         insist-->         insist4     1
+insist3 --  counter-price-->        inquiry4     2
+insist3 --        unknown-->         insist4     1
+insist3 --        unknown-->        inquiry4     1
+insist3 --        unknown-->        unknown4     4
+insist3 --       disagree-->         insist4     1
+insist3 --        unknown-->           offer    10
+insist3 --          agree-->        unknown4     3
+insist3 --        unknown-->  counter-price4     1
+insist3 --          agree-->           offer     4
+insist3 --          agree-->        inquiry4     2
+insist3 --        inquiry-->         inform4     1
+insist3 --          agree-->          agree4     1
+insist3 --        unknown-->            quit     1
+-------------------------------
+state: insist2
+insist2 --  counter-price-->        unknown3     9
+insist2 --          offer-->          accept     5
+insist2 --       disagree-->            quit     1
+insist2 --  counter-price-->           offer     4
+insist2 --  counter-price-->          agree3     8
+insist2 --    vague-price-->  counter-price3     3
+insist2 --        unknown-->       disagree3     1
+insist2 --  counter-price-->        inquiry3     4
+insist2 --  counter-price-->       disagree3     1
+insist2 --  counter-price-->  counter-price3    19
+insist2 --        inquiry-->         insist3     1
+insist2 --        unknown-->         insist3     1
+insist2 --        unknown-->        inquiry3     1
+insist2 --          offer-->          reject     2
+insist2 --       disagree-->        unknown3     1
+insist2 --        unknown-->           offer    11
+insist2 --        unknown-->        unknown3     1
+insist2 --        unknown-->  counter-price3     2
+insist2 --          agree-->        unknown3     2
+insist2 --          agree-->           offer     2
+insist2 --        inquiry-->         inform3     2
+insist2 --        inquiry-->  counter-price3     2
+insist2 --        unknown-->          agree3     1
+-------------------------------
+state: insist1
+-------------------------------
+state: unknown2
+unknown2 --     init-price-->        inquiry3     2
+unknown2 --  counter-price-->    vague-price3     3
+unknown2 --         insist-->       disagree3     1
+unknown2 --       disagree-->           offer     5
+unknown2 --  counter-price-->        unknown3    16
+unknown2 --       disagree-->  counter-price2    16
+unknown2 --       disagree-->       disagree2     1
+unknown2 --     init-price-->          agree3     1
+unknown2 --       disagree-->    vague-price2     3
+unknown2 --         insist-->           offer     5
+unknown2 --          agree-->            quit     1
+unknown2 --        inquiry-->       disagree2     2
+unknown2 --          offer-->          accept   328
+unknown2 --       disagree-->            quit     1
+unknown2 --  counter-price-->           offer     9
+unknown2 --         insist-->          agree3     1
+unknown2 --     init-price-->           offer     1
+unknown2 --  counter-price-->          agree3    10
+unknown2 --    vague-price-->  counter-price3     1
+unknown2 --         insist-->  counter-price3     4
+unknown2 --         insist-->        unknown3     4
+unknown2 --       disagree-->     init-price2     2
+unknown2 --        unknown-->       disagree2     5
+unknown2 --  counter-price-->        inquiry3     8
+unknown2 --        inquiry-->        inquiry2     2
+unknown2 --  counter-price-->            quit     2
+unknown2 --  counter-price-->       disagree3     2
+unknown2 --          agree-->        inquiry2     2
+unknown2 --        unknown-->          agree2     8
+unknown2 --  counter-price-->  counter-price3    53
+unknown2 --        unknown-->    vague-price2     1
+unknown2 --        unknown-->         insist2     5
+unknown2 --        unknown-->        inquiry2    21
+unknown2 --        unknown-->     init-price2     4
+unknown2 --          offer-->          reject     2
+unknown2 --          agree-->  counter-price2     1
+unknown2 --        unknown-->           offer    90
+unknown2 --        unknown-->        unknown2    21
+unknown2 --        inquiry-->           offer     3
+unknown2 --        unknown-->  counter-price2    65
+unknown2 --     init-price-->        unknown3     2
+unknown2 --          agree-->        unknown2     4
+unknown2 --          agree-->           offer    15
+unknown2 --  counter-price-->         insist3     2
+unknown2 --        inquiry-->         inform2     9
+unknown2 --        inquiry-->        unknown2     1
+unknown2 --          agree-->          agree2     1
+unknown2 --       disagree-->         insist2     1
+unknown2 --       disagree-->        inquiry2     9
+unknown2 --        inquiry-->  counter-price2    19
+unknown2 --        unknown-->            quit     2
+unknown2 --     init-price-->  counter-price3     3
+unknown2 --       disagree-->        unknown2     5
+-------------------------------
+state: unknown3
+unknown3 --       disagree-->          agree3     3
+unknown3 --       disagree-->           offer     4
+unknown3 --       disagree-->  counter-price3     2
+unknown3 --        inquiry-->          agree3     2
+unknown3 --         insist-->           offer     5
+unknown3 --        inquiry-->       disagree3     1
+unknown3 --         insist-->          agree4     1
+unknown3 --          offer-->          accept   353
+unknown3 --  counter-price-->           offer     2
+unknown3 --  counter-price-->          agree4    10
+unknown3 --         insist-->        unknown4     5
+unknown3 --         insist-->  counter-price4     2
+unknown3 --    vague-price-->        unknown4     1
+unknown3 --        unknown-->       disagree3     1
+unknown3 --  counter-price-->  counter-price4    14
+unknown3 --  counter-price-->       disagree4     2
+unknown3 --          agree-->        inquiry3     1
+unknown3 --  counter-price-->        inquiry4     2
+unknown3 --        unknown-->         insist3     1
+unknown3 --        unknown-->        inquiry3     2
+unknown3 --  counter-price-->        unknown4    10
+unknown3 --          offer-->          reject     6
+unknown3 --       disagree-->        unknown3     3
+unknown3 --        unknown-->           offer    73
+unknown3 --        unknown-->        unknown3    16
+unknown3 --        inquiry-->           offer     3
+unknown3 --        unknown-->  counter-price3    10
+unknown3 --          agree-->        unknown3     3
+unknown3 --          agree-->           offer    15
+unknown3 --        inquiry-->         inform3     6
+unknown3 --          agree-->       disagree3     1
+unknown3 --          agree-->          agree3     2
+unknown3 --        inquiry-->  counter-price3     7
+unknown3 --        unknown-->          agree3     2
+-------------------------------
+state: unknown1
+unknown1 --       disagree-->    vague-price1    10
+unknown1 --     init-price-->        inquiry2   110
+unknown1 --       disagree-->           offer     1
+unknown1 --       disagree-->          agree1     1
+unknown1 --     init-price-->            quit     6
+unknown1 --       disagree-->       disagree1     7
+unknown1 --    vague-price-->        inquiry2     4
+unknown1 --          offer-->          accept    14
+unknown1 --        inquiry-->       disagree1    22
+unknown1 --       disagree-->            quit     4
+unknown1 --     init-price-->           offer     3
+unknown1 --       disagree-->      init-price   122
+unknown1 --     init-price-->       disagree2     9
+unknown1 --        inquiry-->      init-price    91
+unknown1 --        unknown-->       disagree1    19
+unknown1 --        inquiry-->        inquiry1   104
+unknown1 --        unknown-->          agree1     1
+unknown1 --          agree-->        inquiry1     1
+unknown1 --     init-price-->    vague-price2    10
+unknown1 --        unknown-->    vague-price1    14
+unknown1 --        unknown-->        inquiry1   365
+unknown1 --        unknown-->      init-price   310
+unknown1 --          offer-->          reject     3
+unknown1 --        inquiry-->    vague-price1     4
+unknown1 --        unknown-->        unknown1   164
+unknown1 --       disagree-->        unknown1    38
+unknown1 --        inquiry-->           offer     4
+unknown1 --     init-price-->          agree2    18
+unknown1 --     init-price-->        unknown2    57
+unknown1 --    vague-price-->     init-price2     4
+unknown1 --        inquiry-->         inform1    61
+unknown1 --        inquiry-->            quit     2
+unknown1 --        inquiry-->        unknown1    13
+unknown1 --          agree-->      init-price     1
+unknown1 --     init-price-->         insist2     1
+unknown1 --       disagree-->        inquiry1    75
+unknown1 --        unknown-->            quit    13
+unknown1 --     init-price-->  counter-price2   237
+unknown1 --        unknown-->           offer     6
+-------------------------------
+state: unknown6
+unknown6 --          offer-->          reject     1
+unknown6 --        unknown-->        unknown6     2
+unknown6 --        unknown-->           offer     1
+unknown6 --          offer-->          accept    10
+unknown6 --  counter-price-->  counter-price7     1
+unknown6 --        inquiry-->  counter-price6     1
+-------------------------------
+state: unknown7
+unknown7 --          offer-->          accept     1
+-------------------------------
+state: unknown4
+unknown4 --       disagree-->           offer     2
+unknown4 --       disagree-->  counter-price4     2
+unknown4 --  counter-price-->        unknown5     5
+unknown4 --         insist-->           offer     2
+unknown4 --          offer-->          accept   161
+unknown4 --  counter-price-->           offer     2
+unknown4 --  counter-price-->          agree5     1
+unknown4 --         insist-->        unknown5     1
+unknown4 --         insist-->  counter-price5     4
+unknown4 --        unknown-->          agree4     5
+unknown4 --  counter-price-->  counter-price5     2
+unknown4 --  counter-price-->        inquiry5     1
+unknown4 --        unknown-->         insist4     1
+unknown4 --          offer-->          reject     4
+unknown4 --        unknown-->        unknown4     4
+unknown4 --       disagree-->        unknown4     1
+unknown4 --        unknown-->           offer    32
+unknown4 --          agree-->        unknown4     2
+unknown4 --        unknown-->        inquiry4     1
+unknown4 --        unknown-->  counter-price4     2
+unknown4 --          agree-->           offer     5
+unknown4 --        inquiry-->         inform4     1
+unknown4 --        unknown-->            quit     1
+-------------------------------
+state: unknown5
+unknown5 --          agree-->           offer     1
+unknown5 --       disagree-->           offer     2
+unknown5 --        unknown-->        inquiry5     1
+unknown5 --  counter-price-->        unknown6     2
+unknown5 --  counter-price-->           offer     2
+unknown5 --        unknown-->        unknown5     1
+unknown5 --        unknown-->           offer     8
+unknown5 --         insist-->           offer     1
+unknown5 --          offer-->          accept    34
+unknown5 --        unknown-->            quit     1
+unknown5 --       disagree-->            quit     2
+unknown5 --  counter-price-->  counter-price6     1
+unknown5 --        inquiry-->  counter-price5     1
+-------------------------------
+state: unknown8
+unknown8 --          offer-->          accept     2
+unknown8 --        unknown-->           offer     1
+-------------------------------
+state: unknown9
+-------------------------------
+state: offer
+offer --          agree-->          reject     4
+offer --  counter-price-->          accept     8
+offer --          agree-->          accept    51
+offer --        inquiry-->          accept     4
+offer --         insist-->          reject     1
+offer --         insist-->          accept     1
+offer --        unknown-->          reject    15
+offer --    vague-price-->          accept     1
+offer --        unknown-->          accept   314
+offer --  counter-price-->          reject     8
+offer --       disagree-->          reject     5
+offer --       disagree-->          accept     5
+offer --         inform-->          accept     2
+offer --        inquiry-->          reject     1
+-------------------------------
+state: inform14
+-------------------------------
+state: counter-price10
+-------------------------------
+state: counter-price11
+-------------------------------
+state: inform15
+-------------------------------
+state: intro
+intro --       disagree-->    vague-price1     2
+intro --     init-price-->        inquiry2   180
+intro --       disagree-->           offer     2
+intro --        inquiry-->            quit     2
+intro --       disagree-->       disagree1     4
+intro --    vague-price-->        inquiry2     2
+intro --          offer-->          accept     7
+intro --        inquiry-->       disagree1     2
+intro --       disagree-->            quit     4
+intro --     init-price-->           offer     5
+intro --       disagree-->      init-price    69
+intro --     init-price-->       disagree2     8
+intro --          agree-->        unknown1     2
+intro --        inquiry-->      init-price    56
+intro --        unknown-->       disagree1    29
+intro --        inquiry-->        inquiry1    87
+intro --        unknown-->          agree1     2
+intro --          agree-->        inquiry1     3
+intro --     init-price-->    vague-price2     9
+intro --        unknown-->    vague-price1    13
+intro --        unknown-->        inquiry1   785
+intro --        unknown-->      init-price   443
+intro --          offer-->          reject    13
+intro --        inquiry-->    vague-price1     3
+intro --        unknown-->        unknown1   302
+intro --       disagree-->        unknown1    25
+intro --     init-price-->          agree2     6
+intro --     init-price-->        unknown2    60
+intro --        inquiry-->         inform1    34
+intro --     init-price-->            quit     5
+intro --        inquiry-->        unknown1    10
+intro --          agree-->      init-price     1
+intro --       disagree-->        inquiry1    94
+intro --        unknown-->            quit    28
+intro --     init-price-->  counter-price2   230
+intro --        unknown-->           offer    12
+-------------------------------
+state: agree14
+-------------------------------
+state: counter-price14
+-------------------------------
+state: agree16
+-------------------------------
+state: agree17
+-------------------------------
+state: agree10
+-------------------------------
+state: agree11
+-------------------------------
+state: agree12
+-------------------------------
+state: agree13
+-------------------------------
+state: inquiry11
+-------------------------------
+state: inquiry10
+-------------------------------
+state: insist11
+-------------------------------
+state: insist10
+-------------------------------
+state: inform10
+-------------------------------
+state: inform11
+-------------------------------
+state: inform12
+-------------------------------
+state: inform13
+-------------------------------
+state: counter-price17
+-------------------------------
+state: accept
+-------------------------------
+state: inform2
+inform2 --  counter-price-->        unknown3     7
+inform2 --        inquiry-->          agree2     1
+inform2 --        inquiry-->     init-price2     1
+inform2 --          offer-->          accept    30
+inform2 --     init-price-->           offer     1
+inform2 --  counter-price-->          agree3     1
+inform2 --       disagree-->     init-price2     1
+inform2 --  counter-price-->        inquiry3     1
+inform2 --        inquiry-->        inquiry2     2
+inform2 --  counter-price-->       disagree3     1
+inform2 --          agree-->        inquiry2     1
+inform2 --        unknown-->          agree2     1
+inform2 --  counter-price-->  counter-price3     5
+inform2 --        inquiry-->         insist2     1
+inform2 --       disagree-->        unknown2     1
+inform2 --        unknown-->        unknown2     4
+inform2 --          agree-->        unknown2     7
+inform2 --          agree-->           offer     6
+inform2 --        inquiry-->         inform2     5
+inform2 --          agree-->       disagree2     1
+inform2 --          agree-->          agree2     2
+inform2 --        inquiry-->  counter-price2     1
+inform2 --        unknown-->            quit     1
+inform2 --     init-price-->  counter-price3     1
+inform2 --        unknown-->           offer    24
+-------------------------------
+state: inform3
+inform3 --          agree-->           offer     7
+inform3 --        inquiry-->         inform3     3
+inform3 --        unknown-->  counter-price3     1
+inform3 --  counter-price-->          agree4     1
+inform3 --  counter-price-->         insist4     1
+inform3 --        unknown-->         insist3     1
+inform3 --        inquiry-->        unknown3     1
+inform3 --  counter-price-->        unknown4     5
+inform3 --        inquiry-->           offer     1
+inform3 --        unknown-->           offer     8
+inform3 --        unknown-->        unknown3     5
+inform3 --  counter-price-->  counter-price4     4
+inform3 --        unknown-->          agree3     1
+inform3 --          offer-->          accept    19
+inform3 --  counter-price-->       disagree4     1
+inform3 --          agree-->        inquiry3     2
+inform3 --  counter-price-->           offer     1
+inform3 --          agree-->        unknown3     3
+-------------------------------
+state: counter-price12
+-------------------------------
+state: inform1
+inform1 --       disagree-->    vague-price1     1
+inform1 --     init-price-->        inquiry2     6
+inform1 --       disagree-->       disagree1     2
+inform1 --          offer-->          accept     2
+inform1 --        inquiry-->       disagree1     3
+inform1 --       disagree-->      init-price     4
+inform1 --     init-price-->       disagree2     1
+inform1 --        inquiry-->      init-price     7
+inform1 --        unknown-->       disagree1     2
+inform1 --        inquiry-->        inquiry1     1
+inform1 --          agree-->        inquiry1     1
+inform1 --        unknown-->    vague-price1     1
+inform1 --        unknown-->        inquiry1    10
+inform1 --        unknown-->      init-price    17
+inform1 --        unknown-->        unknown1     6
+inform1 --       disagree-->        unknown1     1
+inform1 --     init-price-->          agree2     3
+inform1 --     init-price-->        unknown2    10
+inform1 --    vague-price-->     init-price2     1
+inform1 --        inquiry-->         inform1    12
+inform1 --     init-price-->         insist2     1
+inform1 --       disagree-->        inquiry1     2
+inform1 --     init-price-->  counter-price2    24
+inform1 --        unknown-->           offer     1
+-------------------------------
+state: inform6
+-------------------------------
+state: inform7
+-------------------------------
+state: inform4
+inform4 --          agree-->           offer     3
+inform4 --  counter-price-->         insist5     1
+inform4 --  counter-price-->        unknown5     2
+inform4 --          offer-->          reject     1
+inform4 --        unknown-->        unknown4     2
+inform4 --        unknown-->           offer     2
+inform4 --  counter-price-->       disagree5     1
+inform4 --          agree-->        unknown4     2
+inform4 --          offer-->          accept     7
+inform4 --  counter-price-->            quit     1
+inform4 --  counter-price-->           offer     2
+-------------------------------
+state: inform5
+inform5 --          agree-->           offer     2
+inform5 --          offer-->          accept     2
+-------------------------------
+state: inform8
+-------------------------------
+state: inform9
+-------------------------------
+state: vague-price4
+vague-price4 --          offer-->          accept     1
+vague-price4 --  counter-price-->        unknown5     1
+vague-price4 --  counter-price-->        inquiry5     1
+-------------------------------
+state: vague-price5
+vague-price5 --         insist-->        inquiry6     1
+vague-price5 --  counter-price-->  counter-price6     1
+vague-price5 --  counter-price-->          agree6     1
+-------------------------------
+state: vague-price6
+-------------------------------
+state: vague-price7
+vague-price7 --  counter-price-->       disagree8     1
+-------------------------------
+state: vague-price1
+vague-price1 --     init-price-->           offer     2
+vague-price1 --       disagree-->       disagree2     1
+vague-price1 --     init-price-->        inquiry2     8
+vague-price1 --        inquiry-->         inform2     2
+vague-price1 --        unknown-->        inquiry2     4
+vague-price1 --     init-price-->  counter-price2    44
+vague-price1 --       disagree-->     init-price2     8
+vague-price1 --        inquiry-->     init-price2    20
+vague-price1 --        unknown-->     init-price2    19
+vague-price1 --        unknown-->        unknown2     2
+vague-price1 --    vague-price-->        unknown2     1
+vague-price1 --     init-price-->          agree2     4
+vague-price1 --        inquiry-->        inquiry2     2
+vague-price1 --     init-price-->        unknown2     5
+vague-price1 --    vague-price-->     init-price2    10
+-------------------------------
+state: vague-price2
+vague-price2 --    vague-price-->  counter-price3     3
+vague-price2 --        inquiry-->         inform3     2
+vague-price2 --  counter-price-->          agree3     3
+vague-price2 --  counter-price-->    vague-price3     1
+vague-price2 --        unknown-->        inquiry3     1
+vague-price2 --  counter-price-->        unknown3     8
+vague-price2 --       disagree-->  counter-price3     2
+vague-price2 --          offer-->          reject     1
+vague-price2 --  counter-price-->        inquiry3     4
+vague-price2 --          agree-->  counter-price3     1
+vague-price2 --        unknown-->        unknown3     1
+vague-price2 --        inquiry-->  counter-price3     7
+vague-price2 --        unknown-->  counter-price3     3
+vague-price2 --     init-price-->  counter-price3     1
+vague-price2 --  counter-price-->           offer     4
+vague-price2 --  counter-price-->  counter-price3    19
+-------------------------------
+state: vague-price3
+vague-price3 --  counter-price-->          agree4     1
+vague-price3 --       disagree-->            quit     1
+vague-price3 --  counter-price-->        unknown4     2
+vague-price3 --          offer-->          reject     1
+vague-price3 --        unknown-->        unknown4     1
+vague-price3 --       disagree-->       disagree4     1
+vague-price3 --  counter-price-->  counter-price4     5
+vague-price3 --          offer-->          accept     1
+vague-price3 --        inquiry-->  counter-price4     1
+vague-price3 --        unknown-->  counter-price4     1
+vague-price3 --  counter-price-->        inquiry4     1
+-------------------------------
+state: vague-price8
+-------------------------------
+state: vague-price9
+-------------------------------
+state: reject
+-------------------------------
+state: inform16
+-------------------------------
+state: vague-price17
+-------------------------------
+state: unknown17
+-------------------------------
+state: inquiry1
+inquiry1 --       disagree-->    vague-price1    16
+inquiry1 --     init-price-->        inquiry2   106
+inquiry1 --       disagree-->           offer     3
+inquiry1 --         inform-->        unknown1   137
+inquiry1 --     init-price-->            quit     1
+inquiry1 --         inform-->            quit     4
+inquiry1 --        unknown-->         inform1     1
+inquiry1 --    vague-price-->        inquiry2     1
+inquiry1 --         inform-->        inquiry1   558
+inquiry1 --        inquiry-->       disagree1     7
+inquiry1 --          offer-->          accept     2
+inquiry1 --         inform-->       disagree1    18
+inquiry1 --     init-price-->           offer     5
+inquiry1 --       disagree-->      init-price   279
+inquiry1 --     init-price-->       disagree2    12
+inquiry1 --        inquiry-->      init-price    61
+inquiry1 --        unknown-->       disagree1     4
+inquiry1 --        inquiry-->        inquiry1    16
+inquiry1 --     init-price-->    vague-price2    11
+inquiry1 --         inform-->      init-price   657
+inquiry1 --        unknown-->    vague-price1     2
+inquiry1 --        unknown-->        inquiry1    12
+inquiry1 --        unknown-->      init-price    12
+inquiry1 --          offer-->          reject     2
+inquiry1 --         inform-->           offer     4
+inquiry1 --        inquiry-->    vague-price1     1
+inquiry1 --        unknown-->        unknown1    16
+inquiry1 --       disagree-->        unknown1    53
+inquiry1 --        inquiry-->           offer     1
+inquiry1 --     init-price-->          agree2    14
+inquiry1 --     init-price-->        unknown2    58
+inquiry1 --    vague-price-->     init-price2    11
+inquiry1 --        inquiry-->         inform1    15
+inquiry1 --        inquiry-->        unknown1     4
+inquiry1 --        unknown-->           offer     1
+inquiry1 --       disagree-->       disagree1    10
+inquiry1 --       disagree-->        inquiry1   186
+inquiry1 --     init-price-->  counter-price2   299
+inquiry1 --         inform-->    vague-price1    40
+-------------------------------
+state: inquiry3
+inquiry3 --       disagree-->          agree3     7
+inquiry3 --       disagree-->           offer     4
+inquiry3 --         insist-->         insist4     1
+inquiry3 --         inform-->        unknown3    17
+inquiry3 --  counter-price-->        unknown4    10
+inquiry3 --        inquiry-->          agree3     1
+inquiry3 --    vague-price-->        inquiry4     1
+inquiry3 --         inform-->            quit     1
+inquiry3 --         inform-->        inquiry3     7
+inquiry3 --          offer-->          accept     9
+inquiry3 --         inform-->       disagree3     4
+inquiry3 --    vague-price-->  counter-price4     1
+inquiry3 --  counter-price-->          agree4     7
+inquiry3 --         insist-->        unknown4     3
+inquiry3 --  counter-price-->  counter-price4    19
+inquiry3 --        inquiry-->        inquiry3     1
+inquiry3 --         insist-->        inquiry4     1
+inquiry3 --  counter-price-->        inquiry4     5
+inquiry3 --        unknown-->        inquiry3     2
+inquiry3 --       disagree-->  counter-price3    11
+inquiry3 --          offer-->          reject     1
+inquiry3 --       disagree-->        unknown3     1
+inquiry3 --        unknown-->        unknown3     1
+inquiry3 --        inquiry-->           offer     1
+inquiry3 --        unknown-->  counter-price3     1
+inquiry3 --         inform-->         insist3     4
+inquiry3 --          agree-->        unknown3     1
+inquiry3 --          agree-->           offer     1
+inquiry3 --        inquiry-->         inform3     3
+inquiry3 --         inform-->          agree3     4
+inquiry3 --         inform-->  counter-price3    39
+inquiry3 --          agree-->          agree3     1
+inquiry3 --         inform-->           offer    27
+inquiry3 --       disagree-->        inquiry3     5
+inquiry3 --        inquiry-->  counter-price3     2
+inquiry3 --        unknown-->            quit     1
+-------------------------------
+state: inquiry2
+inquiry2 --       disagree-->          agree2     4
+inquiry2 --       disagree-->    vague-price2     5
+inquiry2 --         insist-->           offer     1
+inquiry2 --       disagree-->           offer     3
+inquiry2 --         inform-->        unknown2    44
+inquiry2 --  counter-price-->        unknown3    31
+inquiry2 --       disagree-->  counter-price2    93
+inquiry2 --        inquiry-->          agree2     1
+inquiry2 --     init-price-->        inquiry3     2
+inquiry2 --        inquiry-->     init-price2     1
+inquiry2 --    vague-price-->        inquiry3     2
+inquiry2 --         inform-->     init-price2     8
+inquiry2 --         inform-->        inquiry2   106
+inquiry2 --          offer-->          accept     3
+inquiry2 --       disagree-->            quit     1
+inquiry2 --  counter-price-->           offer    12
+inquiry2 --         insist-->          agree3     2
+inquiry2 --  counter-price-->          agree3     7
+inquiry2 --    vague-price-->  counter-price3     9
+inquiry2 --     init-price-->       disagree3     3
+inquiry2 --         insist-->  counter-price3     3
+inquiry2 --         insist-->        unknown3     2
+inquiry2 --         inform-->       disagree2     3
+inquiry2 --       disagree-->     init-price2     3
+inquiry2 --  counter-price-->        inquiry3    18
+inquiry2 --        inquiry-->        inquiry2     3
+inquiry2 --  counter-price-->            quit     2
+inquiry2 --  counter-price-->       disagree3     6
+inquiry2 --         inform-->          agree2    27
+inquiry2 --  counter-price-->  counter-price3    96
+inquiry2 --        unknown-->        inquiry2     3
+inquiry2 --        unknown-->  counter-price2     7
+inquiry2 --         insist-->        inquiry3     1
+inquiry2 --       disagree-->        unknown2    13
+inquiry2 --        unknown-->        unknown2     2
+inquiry2 --        inquiry-->           offer     1
+inquiry2 --          agree-->  counter-price2     1
+inquiry2 --          offer-->          reject     1
+inquiry2 --         inform-->         insist2     2
+inquiry2 --          agree-->           offer     2
+inquiry2 --  counter-price-->         insist3     1
+inquiry2 --        inquiry-->         inform2    16
+inquiry2 --         inform-->  counter-price2   164
+inquiry2 --         inform-->    vague-price2     5
+inquiry2 --          agree-->          agree2     1
+inquiry2 --         inform-->            quit     1
+inquiry2 --         inform-->           offer    39
+inquiry2 --       disagree-->        inquiry2    46
+inquiry2 --        inquiry-->  counter-price2    27
+inquiry2 --     init-price-->  counter-price3     6
+-------------------------------
+state: inquiry5
+inquiry5 --         inform-->  counter-price5     3
+inquiry5 --       disagree-->           offer     1
+inquiry5 --         inform-->        unknown5     1
+inquiry5 --  counter-price-->        unknown6     1
+inquiry5 --        unknown-->           offer     1
+inquiry5 --         inform-->          agree5     2
+inquiry5 --  counter-price-->        inquiry6     1
+inquiry5 --         inform-->           offer     1
+-------------------------------
+state: inquiry4
+inquiry4 --         inform-->  counter-price4     4
+inquiry4 --        inquiry-->         insist4     1
+inquiry4 --  counter-price-->          agree5     2
+inquiry4 --         insist-->        unknown5     1
+inquiry4 --         insist-->          agree5     1
+inquiry4 --       disagree-->  counter-price4     1
+inquiry4 --         inform-->        unknown4    14
+inquiry4 --  counter-price-->        unknown5     3
+inquiry4 --       disagree-->        inquiry4     1
+inquiry4 --        inquiry-->           offer     1
+inquiry4 --       disagree-->        unknown4     1
+inquiry4 --         inform-->           offer    10
+inquiry4 --        inquiry-->         inform4     2
+inquiry4 --         inform-->          agree4     5
+inquiry4 --  counter-price-->  counter-price5     3
+inquiry4 --  counter-price-->       disagree5     2
+inquiry4 --        inquiry-->  counter-price4     1
+inquiry4 --          offer-->          accept     2
+inquiry4 --         inform-->        inquiry4     4
+-------------------------------
+state: inquiry7
+inquiry7 --         insist-->        unknown8     1
+-------------------------------
+state: inquiry6
+inquiry6 --         inform-->  counter-price6     1
+inquiry6 --        inquiry-->       disagree6     1
+-------------------------------
+state: inquiry9
+-------------------------------
+state: inquiry8

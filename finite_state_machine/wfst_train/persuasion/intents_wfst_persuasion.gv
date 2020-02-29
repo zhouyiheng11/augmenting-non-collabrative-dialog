@@ -1,0 +1,11 @@
+digraph intents_wfst_persuasion {
+	0 -> 1 [label="0:greeting"]
+	0 -> 2 [label="1:positive-to-inquiry"]
+	0 -> 2 [label="1:positive-reaction-to-donation"]
+	1 -> 2 [label="1:positive-reaction-to-donation"]
+	1 -> 2 [label="1:ask-org-info"]
+	1 -> 0 [label="1:greeting"]
+	2 -> 1 [label="0:credibility-appeal"]
+	2 -> 1 [label="0:donation-information"]
+	2 -> 1 [label="0:other"]
+}

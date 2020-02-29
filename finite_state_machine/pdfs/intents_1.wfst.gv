@@ -1,0 +1,12 @@
+digraph "intents_1.wfst" {
+	0 -> 1 [label="0:<start>"]
+	0 -> 1 [label="0:unknown"]
+	0 -> 1 [label="0:inquiry"]
+	0 -> 0 [label="1:accept"]
+	0 -> 0 [label="0:accept"]
+	1 -> 0 [label="1:unknown"]
+	1 -> 1 [label="0:intro"]
+	1 -> 0 [label="1:intro"]
+	1 -> 0 [label="1:inform"]
+	1 -> 0 [label="1:disagree"]
+}

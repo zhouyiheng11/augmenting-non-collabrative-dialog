@@ -1,0 +1,19 @@
+#!/bin/sh
+
+WFST_BUILD=/Users/zyiheng/Documents/negotiation/finite_state_machine/speech_tools/bin/wfst_build
+
+WFST_TRAIN=/Users/zyiheng/Documents/negotiation/finite_state_machine/speech_tools/bin/wfst_train
+
+#cat intents.txt |
+#sed 's/^[^:]*: //' >intents.train
+
+awk '{for (i=1; i<=NF; i++) print $i}' kvet_wfst/intent_kvet_poi | sort -u >acts
+
+cat acts |
+awk 'BEGIN {printf("(RegularGrammar name nil (\n")}
+     {printf("( 1 -> %s 1 )\n",$1)}
+     END {printf("))\n")}' >base.rg
+
+$WFST_BUILD -detmin -type rg -o base.wfst base.rg
+
+$WFST_TRAIN -heap 1000000 -wfst base.wfst -data kvet_wfst/intent_kvet_poi -o kvet_wfst/intents_kvet_poi.wfst -val_data kvet_wfst/intent_kvet_poi > out

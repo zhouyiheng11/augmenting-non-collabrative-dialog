@@ -1,0 +1,17 @@
+digraph "intents_2.wfst" {
+	0 -> 2 [label="0:<start>"]
+	0 -> 1 [label="0:unknown"]
+	0 -> 1 [label="0:inquiry"]
+	0 -> 0 [label="1:accept"]
+	0 -> 0 [label="0:accept"]
+	1 -> 0 [label="1:unknown"]
+	1 -> 0 [label="1:inform"]
+	1 -> 0 [label="1:disagree"]
+	1 -> 0 [label="1:counter-price_0.9"]
+	1 -> 0 [label="1:init-price_1.0"]
+	2 -> 1 [label="0:intro"]
+	2 -> 0 [label="1:intro"]
+	2 -> 0 [label="1:init-price_1.0"]
+	2 -> 1 [label="0:init-price_0.5"]
+	2 -> 1 [label="0:init-price_0.8"]
+}

@@ -1,0 +1,19 @@
+#!/bin/sh
+
+WFST_BUILD=/Users/zyiheng/Documents/negotiation/finite_state_machine/speech_tools/bin/wfst_build
+
+WFST_TRAIN=/Users/zyiheng/Documents/negotiation/finite_state_machine/speech_tools/bin/wfst_train
+
+#cat intents.txt |
+#sed 's/^[^:]*: //' >intents.train
+
+awk '{for (i=1; i<=NF; i++) print $i}' persuasion/intent_wfst_persuasion_train_cluster_100 | sort -u >acts
+
+cat acts |
+awk 'BEGIN {printf("(RegularGrammar name nil (\n")}
+     {printf("( 1 -> %s 1 )\n",$1)}
+     END {printf("))\n")}' >base.rg
+
+$WFST_BUILD -detmin -type rg -o base.wfst base.rg
+
+$WFST_TRAIN -heap 1000000 -wfst base.wfst -data persuasion/intent_wfst_persuasion_train_cluster_100 -o persuasion/intents_wfst_persuasion_20_cluster_100 -val_data persuasion/intent_wfst_persuasion_train_cluster_100 > out
