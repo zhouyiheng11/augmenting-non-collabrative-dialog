@@ -14,6 +14,7 @@ This section provides step-by-step instrucitons on how to construct a FST descri
 ./finite_state_machine/wfst_train/persuasion/intent_wfst_persuasion_train is an example input file. Each line represents a sequence of dialog acts within one dialog session. They are separated by space.
 
 ### Train FST
+Go to ./finite_state_machine/speech_tools and type "make" to compile necessary components for training.
 ./finite_state_machine/wfst_train/do_wfst_persuasion is the script to train FST.
 1). Change WFST_BUILD and WFST_TRAIN accordingly.
 2). Change line 10 to be your input file path
