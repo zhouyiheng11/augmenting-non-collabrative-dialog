@@ -1,3 +1,8 @@
+# Author: Yiheng Zhou
+
+'''
+Class for tracking current states for FST
+'''
 class wfst:
 	def __init__(self, filename="/projects/tir1/users/yihengz1/negotiation_robot/finite_state_machine/wfst_train/wfst_output/intents_0.5.wfst"):
 		self.state_embedding = dict()

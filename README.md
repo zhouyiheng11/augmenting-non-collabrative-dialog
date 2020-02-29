@@ -1,6 +1,6 @@
 This repository contains the code for the paper
 
-> [Augmenting Non-Collaborative Dialog Systems with Explicit Semantic and Strategic Dialog History](https://openreview.net/forum?id=ryxQuANKPB) _Yiheng Zhou_ _Yulia Tsvetkov_ _Alan W Black_ and _Zhou Yu_
+> [Augmenting Non-Collaborative Dialog Systems with Explicit Semantic and Strategic Dialog History](https://openreview.net/forum?id=ryxQuANKPB) _Yiheng Zhou,_ _Yulia Tsvetkov,_ _Alan W Black_ and _Zhou Yu_
 
 # Dependencies
 
@@ -13,7 +13,7 @@ This section provides step-by-step instrucitons on how to construct a FST descri
 ### Prepare input file
 ./finite_state_machine/wfst_train/persuasion/intent_wfst_persuasion_train is an example input file. Each line represents a sequence of dialog acts within one dialog session. They are separated by space.
 
-### train FST
+### Train FST
 ./finite_state_machine/wfst_train/do_wfst_persuasion is the script to train FST.
 1). Change WFST_BUILD and WFST_TRAIN accordingly.
 2). Change line 10 to be your input file path
